@@ -4,17 +4,17 @@ A simple, client-side expense tracker built with vanilla HTML, CSS, and JavaScri
 
 ## Features
 
-- **Add transactions** — enter a description and amount (positive for income, negative for expenses)
-- **Remove transactions** — delete any entry with one click
-- **Live summary** — automatically updates your total balance, income, and expenses
-- **Persistent storage** — transactions are saved in the browser's `localStorage`, so your data survives page reloads
-- **Animated balance** — the balance smoothly counts up/down when it changes
+- **Add transactions**: enter a description and amount (positive for income, negative for expenses)
+- **Remove transactions**: delete any entry with one click
+- **Live summary**: automatically updates your total balance, income, and expenses
+- **Persistent storage**: transactions are saved in the browser's `localStorage`, so your data survives page reloads
+- **Animated balance**: the balance smoothly counts up/down when it changes
 
 ## Tech Stack
 
-- **HTML** — page structure and layout
-- **CSS** — styling
-- **JavaScript (vanilla)** — no frameworks or libraries; handles state, DOM rendering, and persistence
+- **HTML**: page structure and layout
+- **CSS**: styling
+- **JavaScript (vanilla)**: no frameworks or libraries, handles state, DOM rendering, and persistence
 
 ## How It Works
 
