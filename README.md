@@ -4,11 +4,7 @@ A simple, client-side expense tracker built with vanilla HTML, CSS, and JavaScri
 
 ## Features
 
-- **Add transactions**: enter a description and amount (positive for income, negative for expenses)
-- **Remove transactions**: delete any entry with one click
-- **Live summary**: automatically updates your total balance, income, and expenses
-- **Persistent storage**: transactions are saved in the browser's `localStorage`, so your data survives page reloads
-- **Animated balance**: the balance smoothly counts up/down when it changes
+You can add transactions by entering a description and amount, using a positive number for income and a negative number for expenses. Any transaction can be removed with a single click. The app keeps a live summary that automatically updates your total balance, income, and expenses as you make changes, and the balance smoothly animates when it updates. All transactions are saved in the browser's `localStorage`, so your data persists across page reloads.
 
 ## Tech Stack
 
